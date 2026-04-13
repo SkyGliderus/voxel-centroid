@@ -5,6 +5,9 @@
 [![GitHub Release](https://img.shields.io/github/v/release/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid/releases)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid)
 [![GitHub last commit](https://img.shields.io/github/last-commit/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid)
+[![PyPI version](https://img.shields.io/pypi/v/voxel-centroid)](https://pypi.org/project/voxel-centroid/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/voxel-centroid)](https://pypi.org/project/voxel-centroid/)
+[![PyPI format](https://img.shields.io/pypi/format/voxel-centroid)](https://pypi.org/project/voxel-centroid/)
 
 **High-precision 3D geometric centroid computation through voxelization**
 
