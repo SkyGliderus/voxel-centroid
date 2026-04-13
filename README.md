@@ -2,7 +2,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![PyPI](https://img.shields.io/badge/pypi-v1.0.0-blue)](https://pypi.org/project/voxel-centroid/)
+[![GitHub Release](https://img.shields.io/github/v/release/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid/releases)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SkyGliderus/voxel-centroid)](https://github.com/SkyGliderus/voxel-centroid)
 
 **High-precision 3D geometric centroid computation through voxelization**
 
@@ -147,7 +149,7 @@ MIT License - see [LICENSE](LICENSE) file.
 If you use this library in academic work, please cite:
 
 ```bibtex
-@software{voxel_centroid_2024,
+@software{voxel_centroid_2026,
   author = {SkyGliderus},
   title = {Voxel Centroid: High-Precision 3D Geometric Centroid Computation},
   year = {2026},
